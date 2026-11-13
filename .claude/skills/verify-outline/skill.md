@@ -1,6 +1,7 @@
 ---
 name: verify-outline
 description: Validate a module outline before it enters the PPT creation pipeline
+model: claude-haiku-5-5
 user_invocable: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: plan-ppt
 description: Create a detailed slide-by-slide plan from a verified module outline
+model: claude-opus-5-5
 user_invocable: true
 ---
 

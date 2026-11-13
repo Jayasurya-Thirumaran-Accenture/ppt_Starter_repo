@@ -1,6 +1,7 @@
 ---
 name: create-ppt
 description: Generate a PowerPoint file from the slide plan using reference templates
+model: claude-sonnet-5-5
 user_invocable: true
 ---
 

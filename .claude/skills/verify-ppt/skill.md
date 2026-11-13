@@ -1,6 +1,7 @@
 ---
 name: verify-ppt
 description: Quality-check the generated PPT for grammar, accuracy, format, and completeness
+model: claude-sonnet-5-5
 user_invocable: true
 ---
 
